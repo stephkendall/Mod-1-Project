@@ -6,3 +6,4 @@ We're going to get Leonardo DiCaprio another Oscar!
 - does budget have any effect on rating?
 - box office sales: vary by country?
 - production company effect?
+- do people care beyond opening weekend?
