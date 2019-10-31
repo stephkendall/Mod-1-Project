@@ -1,0 +1,25 @@
+title,rating,box_office,boxofficeint,genre1,genre,title,release_date,domestic,international,worldwide
+"Blood Diamond",8,"$171 M.",0,"171 ","Adventure, Drama, Thriller","Blood Diamond","2006-12-08 00:00:00",57377916,114000000,171377916
+"Body of Lies",7,"$115 M.",0,"115 ","Action, Drama, Thriller","Body of Lies","2008-10-10 00:00:00",39394666,79161864,118556530
+"Catch Me If You Can",8,"$352 M.",0,"352 ","Biography, Crime, Drama","Catch Me if You Can","2002-12-25 00:00:00",164606800,191005491,355612291
+Celebrity,6,"$5 M.",0,"5 ","Comedy, Drama",Celebrity,"1998-11-20 00:00:00",5078660,1121340,6200000
+"Django Unchained",8,"$425 M.",0,"425 ","Drama, Western","Django Unchained","2012-12-25 00:00:00",162805434,287142889,449948323
+"Gangs of New York",8,"$194 M.",0,"194 ","Crime, Drama","Gangs of New York","2002-12-20 00:00:00",77730500,105394121,183124621
+Inception,9,"$826 M.",0,"826 ","Action, Adventure, Sci-Fi",Inception,"2010-07-16 00:00:00",292576195,542948447,835524642
+"J. Edgar",7,"$85 M.",0,"85 ","Biography, Crime, Drama","J. Edgar","2011-11-09 00:00:00",37306030,47300000,84606030
+"Marvin's Room",7,"$13 M.",0,"13 ",Drama,"Marvin's Room","1996-12-20 00:00:00",12803305,0,12803305
+"Poison Ivy",5,"$2 M.",0,"2 ","Drama, Thriller","Poison Ivy","1992-05-08 00:00:00",1829804,0,1829804
+"Revolutionary Road",7,"$75 M.",0,"75 ","Drama, Romance","Revolutionary Road","2008-12-26 00:00:00",22951340,56653480,79604820
+"Shutter Island",8,"$295 M.",0,"295 ","Mystery, Thriller","Shutter Island","2010-02-19 00:00:00",128012934,171448848,299461782
+"The Aviator",8,"$214 M.",0,"214 ","Biography, Drama","The Aviator","2004-12-17 00:00:00",102608827,105762065,208370892
+"The Basketball Diaries",7,"$2 M.",0,"2 ","Biography, Crime, Drama","The Basketball Diaries","1995-04-21 00:00:00",2381087,0,2381087
+"The Beach",7,"$144 M.",0,"144 ","Adventure, Drama, Romance","The Beach","2000-02-11 00:00:00",39778599,0,39778599
+"The Departed",9,"$290 M.",0,"290 ","Crime, Drama, Thriller","The Departed","2006-10-06 00:00:00",132384315,157276304,289660619
+"The Great Gatsby",7,"$351 M.",0,"351 ","Drama, Romance","The Great Gatsby","2013-05-10 00:00:00",144840419,206200000,351040419
+"The Man in the Iron Mask",7,"$183 M.",0,"183 ","Action, Adventure, Drama","The Man in the Iron Mask","1998-03-13 00:00:00",56968169,0,56968169
+"The Quick and the Dead",6,"$19 M.",0,"19 ","Action, Romance, Thriller","The Quick and the Dead","1995-02-10 00:00:00",18552460,0,18552460
+"The Revenant",8,"$519 M.",0,"519 ","Action, Adventure, Biography","The Revenant","2015-12-25 00:00:00",183637894,349300408,532938302
+"The Wolf of Wall Street",8,"$392 M.",0,"392 ","Biography, Crime, Drama","The Wolf of Wall Street","2013-12-25 00:00:00",116900694,272969720,389870414
+"This Boy's Life",7,"$4 M.",0,"4 ","Biography, Drama","This Boy's Life","1993-04-09 00:00:00",4104962,0,4104962
+Titanic,8,"$2.129 M.",0,"2.129 ","Drama, Romance",Titanic,"1997-12-19 00:00:00",659363944,1548844451,2147483647
+"What's Eating Gilbert Grape",8,"$10 M.",0,"10 ",Drama,"What's Eating Gilbert Grape","1993-12-25 00:00:00",9170214,0,9170214
